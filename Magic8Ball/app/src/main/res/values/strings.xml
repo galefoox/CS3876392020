@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Magic8Ball</string>
+    <string name="magic_8_ball">Magic 8-Ball</string>
+    <string name="button_reveal_answer">Button</string>
+    <string name="reveal_answer">REVEAL YOUR ANSWER</string>
+    <string name="image_answer_meme">image_answer_meme</string>
+    <string name="hi">hi</string>
+</resources>
