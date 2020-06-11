@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MenuProject</string>
+    <string name="activity_new">Hello Gal Foox</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="activity_help">Activity Help</string>
+    <string name="new_activity">NEW ACTIVITY</string>
+    <string name="button_sms">SMS</string>
+</resources>
