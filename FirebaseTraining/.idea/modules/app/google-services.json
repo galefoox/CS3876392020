@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "532235740150",
+    "firebase_url": "https://fir-training-96968.firebaseio.com",
+    "project_id": "fir-training-96968",
+    "storage_bucket": "fir-training-96968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532235740150:android:bca56973b92a9240c0ddd7",
+        "android_client_info": {
+          "package_name": "com.example.firebasetraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532235740150-ope0uf4oq8279pn84s2ig8np691jleor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetraining",
+            "certificate_hash": "63b9b509ba6b52e38b0a940cee13dc715d89f82d"
+          }
+        },
+        {
+          "client_id": "532235740150-03psfmq5aanhbfm7ibligrjnsk631tnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN1GTatjoWkjQniNfcHm9wRmQ8Q3dqMa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532235740150-03psfmq5aanhbfm7ibligrjnsk631tnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
