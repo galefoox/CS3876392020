@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361064224680",
+    "firebase_url": "https://friendly-eats-33840.firebaseio.com",
+    "project_id": "friendly-eats-33840",
+    "storage_bucket": "friendly-eats-33840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361064224680:android:9297444821541fa686af9d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.example.fireeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361064224680-gsoh5i02gpb4q3cd6fjf6nalltlrpujr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.example.fireeats",
+            "certificate_hash": "63b9b509ba6b52e38b0a940cee13dc715d89f82d"
+          }
+        },
+        {
+          "client_id": "361064224680-df50e99crih823ankjuuqqo2koqdindl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoTaIF9oR31fxPgjvy3Q6Jgn8EsB2Ngbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361064224680-df50e99crih823ankjuuqqo2koqdindl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

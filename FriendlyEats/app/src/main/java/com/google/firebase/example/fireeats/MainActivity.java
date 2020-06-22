@@ -225,7 +225,7 @@ public class MainActivity extends AppCompatActivity implements
 
 
 
-        showTodoToast();
+        //showTodoToast();
 
         // Set header
         mCurrentSearchView.setText(Html.fromHtml(filters.getSearchDescription(this)));
