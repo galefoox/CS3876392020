@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
             Toast toast = Toast.makeText(this,"Enter A Number",Toast.LENGTH_SHORT);
 
             toast.show();
+
         }
 
         converted_value = Double.parseDouble(inputNum.getText().toString());
