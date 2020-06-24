@@ -35,18 +35,30 @@ public class MainActivity extends AppCompatActivity {
 
     public void convertToKilometers(View view) {
 
-        if(inputNum.getText() == null)
+        /*if(inputNum.getText() == null)
         {
+            Toast toast = Toast.makeText(this,"Enter A Number",Toast.LENGTH_SHORT);
+
+            toast.show();
+
+        }*/
+
+        try {
+
+            converted_value = Double.parseDouble(inputNum.getText().toString());
+            converted_value = converted_value * 1.609;
+            DecimalFormat dec = new DecimalFormat("000.000");;
+            output.setText(Double.toString(Double.parseDouble(dec.format(converted_value))));
+        }
+
+        catch(Exception exc){
+
             Toast toast = Toast.makeText(this,"Enter A Number",Toast.LENGTH_SHORT);
 
             toast.show();
 
         }
 
-        converted_value = Double.parseDouble(inputNum.getText().toString());
-        converted_value = converted_value * 1.609;
-        DecimalFormat dec = new DecimalFormat("000.000");;
-        output.setText(Double.toString(Double.parseDouble(dec.format(converted_value))));
 
 
 
