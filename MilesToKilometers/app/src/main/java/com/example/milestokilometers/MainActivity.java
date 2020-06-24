@@ -10,6 +10,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.text.DecimalFormat;
+
 public class MainActivity extends AppCompatActivity {
 
     private double converted_value;
@@ -43,7 +45,8 @@ public class MainActivity extends AppCompatActivity {
 
         converted_value = Double.parseDouble(inputNum.getText().toString());
         converted_value = converted_value * 1.609;
-        output.setText(Double.toString(converted_value));
+        DecimalFormat dec = new DecimalFormat("000.000");;
+        output.setText(Double.toString(Double.parseDouble(dec.format(converted_value))));
 
 
 
