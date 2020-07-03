@@ -18,7 +18,9 @@
         \n\nI was in awe.
         \n\nI plan my next adventure to take place with sharks.
         \n\nI am looking forward to endless endeavors.
-
     </string>
+
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 
 </resources>
